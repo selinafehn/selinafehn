@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Selina</h1>
 <h3 align="center">I am a student for computerscience and artificial Intelligence</h3>
 
-- 🌱 I’m currently learning **the nuxt Framework**
+- 🌱 I’m currently studying at university and coding at work
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
